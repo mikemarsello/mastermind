@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mikemarsello/mastermind/precache-manifest.e63fb797b45f4390c768ea67ce8850f0.js"
+  "/mastermind/build/precache-manifest.0c4d9c83019c59c53f65124566a72ef3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/mikemarsello/mastermind/index.html", {
+workbox.routing.registerNavigationRoute("/mastermind/build/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,15 +1,15 @@
 {
-  "main.css": "/mikemarsello/mastermind/static/css/main.70d5a0c8.chunk.css",
-  "main.js": "/mikemarsello/mastermind/static/js/main.68ead808.chunk.js",
-  "main.js.map": "/mikemarsello/mastermind/static/js/main.68ead808.chunk.js.map",
-  "runtime~main.js": "/mikemarsello/mastermind/static/js/runtime~main.d3c7ebc1.js",
-  "runtime~main.js.map": "/mikemarsello/mastermind/static/js/runtime~main.d3c7ebc1.js.map",
-  "static/js/2.69272ca3.chunk.js": "/mikemarsello/mastermind/static/js/2.69272ca3.chunk.js",
-  "static/js/2.69272ca3.chunk.js.map": "/mikemarsello/mastermind/static/js/2.69272ca3.chunk.js.map",
-  "index.html": "/mikemarsello/mastermind/index.html",
-  "precache-manifest.e63fb797b45f4390c768ea67ce8850f0.js": "/mikemarsello/mastermind/precache-manifest.e63fb797b45f4390c768ea67ce8850f0.js",
-  "service-worker.js": "/mikemarsello/mastermind/service-worker.js",
-  "static/css/main.70d5a0c8.chunk.css.map": "/mikemarsello/mastermind/static/css/main.70d5a0c8.chunk.css.map",
-  "static/media/logo.svg": "/mikemarsello/mastermind/static/media/logo.5d5d9eef.svg",
-  "static/media/question.jpg": "/mikemarsello/mastermind/static/media/question.965bb6be.jpg"
+  "main.css": "/mastermind/build/static/css/main.0920fb19.chunk.css",
+  "main.js": "/mastermind/build/static/js/main.def1e627.chunk.js",
+  "main.js.map": "/mastermind/build/static/js/main.def1e627.chunk.js.map",
+  "runtime~main.js": "/mastermind/build/static/js/runtime~main.9919fe6a.js",
+  "runtime~main.js.map": "/mastermind/build/static/js/runtime~main.9919fe6a.js.map",
+  "static/js/2.69272ca3.chunk.js": "/mastermind/build/static/js/2.69272ca3.chunk.js",
+  "static/js/2.69272ca3.chunk.js.map": "/mastermind/build/static/js/2.69272ca3.chunk.js.map",
+  "index.html": "/mastermind/build/index.html",
+  "precache-manifest.0c4d9c83019c59c53f65124566a72ef3.js": "/mastermind/build/precache-manifest.0c4d9c83019c59c53f65124566a72ef3.js",
+  "service-worker.js": "/mastermind/build/service-worker.js",
+  "static/css/main.0920fb19.chunk.css.map": "/mastermind/build/static/css/main.0920fb19.chunk.css.map",
+  "static/media/logo.svg": "/mastermind/build/static/media/logo.5d5d9eef.svg",
+  "static/media/question.jpg": "/mastermind/build/static/media/question.965bb6be.jpg"
 }

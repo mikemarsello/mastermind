@@ -2,7 +2,7 @@
   "name": "mastermind",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mikemarsello/mastermind",
+  "homepage": "https://michaelmarsello.com/mastermind/build",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.5",
